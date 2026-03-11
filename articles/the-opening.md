@@ -3,6 +3,8 @@ layout: default
 title: The Opening
 ---
 
+![The Opening](images/the-opening.png)
+
 # The Opening
 
 ---
